@@ -1,4 +1,4 @@
-import 'package:assincromismo/assincromismo.dart';
+import 'package:assincromismo/assincrono_dart.dart';
 import 'package:test/test.dart';
 
 void main() {
